@@ -1,0 +1,6 @@
+package android.tashil.counselling
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
